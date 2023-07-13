@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 037e7b3df18b2604ebddec3874e54619, type: 3}
+  m_Name: SkinData
+  m_EditorClassIdentifier: 
+  _skins:
+  - SkinName: "\u041C\u0418\u041A\u0420\u041E\u0427\u0415\u041B\u0418\u041A \u0412\u0410\u041D\u0418\u041B\u041B\u0410"
+    SkinImage: {fileID: 4124188998583881885, guid: 2ca669b626c877f4b9fbe39f5b7c21b4, type: 3}
+    Prefab: {fileID: 4870814138066592155, guid: 6ac1d92c7dd6ce94d849f5cc726a5712, type: 3}
+  - SkinName: "\u0422\u0420\u0410\u0412\u041E\u0427\u0415\u041B\u0418\u041A"
+    SkinImage: {fileID: 4124188998583881885, guid: 3db83042277d21d4a97867b18165e780, type: 3}
+    Prefab: {fileID: 4870814138066592155, guid: 844638fdcb7e19c4393427782f07fd88, type: 3}
+  - SkinName: "\u041C\u0418\u041A\u0420\u041E\u0427\u0415\u041B\u0418\u041A \u041A\u041B\u0423\u0411\u041D\u0418\u041A\u0410"
+    SkinImage: {fileID: 4124188998583881885, guid: e00dd3cf51a1b784682671cc1b197ecb, type: 3}
+    Prefab: {fileID: 0}
+  - SkinName: "\u042D\u041C\u041E\u0427\u0415\u041B\u0418\u041A"
+    SkinImage: {fileID: 4124188998583881885, guid: 1c4aef68bef25d34c922f913ed6fcf39, type: 3}
+    Prefab: {fileID: 0}
+  CurrentSkin: {fileID: 4870814138066592155, guid: 844638fdcb7e19c4393427782f07fd88, type: 3}
